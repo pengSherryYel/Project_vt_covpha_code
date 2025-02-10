@@ -1,0 +1,2 @@
+#!/usr/bin/bash
+sh ../src/wf_qc_ass_ckv_mmseqs_replidec_bt.sh SMR12_23L004820_L001_R1 /project/genomics/DENGLAB/data_repo/d0254/Sample_23L004820/23L004820_S13_L001_R1_001.fastq.gz /project/genomics/DENGLAB/data_repo/d0254/Sample_23L004820/23L004820_S13_L001_R2_001.fastq.gz
